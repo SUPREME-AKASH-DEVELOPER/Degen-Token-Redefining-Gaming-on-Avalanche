@@ -177,7 +177,7 @@ To set up the project locally:
 The project should now be running on `http://localhost:3000`.
 
 
-## License
+
 
 This project is licensed under the MIT License.
 
