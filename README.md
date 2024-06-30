@@ -176,11 +176,9 @@ To set up the project locally:
 
 The project should now be running on `http://localhost:3000`.
 
-
-
+Author
+Akash
 
 This project is licensed under the MIT License.
 
 ---
-
-Feel free to modify this template as per your project specifics and requirements.
